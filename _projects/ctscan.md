@@ -13,13 +13,9 @@ custom_js:
 
 Some explanation of the data here.
 
-{% raw %}
 <vegachart schema-url="{{ site.baseurl }}/assets/json/viz1_intensity_profile.json" style="width: 100%"></vegachart>
-{% endraw %}
 
-{% raw %}
 <vegachart schema-url="{{ site.baseurl }}/assets/json/viz2_slice_viewer.json" style="width: 100%"></vegachart>
-{% endraw %}
 
 <div class="left">
 {% include elements/button.html link="https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/single_dicom.h5" text="the data" %}
