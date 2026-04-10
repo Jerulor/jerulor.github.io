@@ -26,5 +26,5 @@ Some explanation of the data here.
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/Jerulor/jerulor.github.io/blob/main/python_notebooks/ct_scan_visualizations.ipynb" text="the analysis" %}
+{% include elements/button.html link="https://github.com/Jerulor/jerulor.github.io/blob/main/python_notebooks/vis1.ipynb" text="the analysis" %}
 </div>
