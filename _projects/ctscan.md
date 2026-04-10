@@ -37,5 +37,5 @@ The interactivity in this graph comes from the slice slider. It reminds me of so
 </div>
 
 <div class="right">
-{% include elements/button.html link="https://github.com/Jerulor/jerulor.github.io/blob/main/python_notebooks/vis1.ipynb" text="the analysis" %}
+{% include elements/button.html link="https://github.com/Jerulor/jerulor.github.io/blob/main/_projects/vis1.ipynb" text="the analysis" %}
 </div>
